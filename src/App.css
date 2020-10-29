@@ -1,0 +1,31 @@
+.footer{
+    background-color: #3F3F3F;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    color:floralwhite;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #3F3F3F ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.nav-link{
+   font-family: 'Roboto', sans-serif;
+   color: white !important;
+}
+
+.navc {
+    background-color: #202020;
+}
+
+.yellowheads{
+   color: #FFDF6C; 
+}
